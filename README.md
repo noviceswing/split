@@ -14,6 +14,6 @@ filename = "house_tiny.xlsx" xlsx文件和csv文件均可
 
 最后执行：
 ```python -u main.py```
-```python -u 
 
-"c:\Users\why\CODE\PYTHON\split\main.py"```
+
+``` python -u "c:\Users\why\CODE\PYTHON\split\main.py"```
